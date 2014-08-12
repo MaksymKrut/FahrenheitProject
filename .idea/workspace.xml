@@ -19,7 +19,11 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d889afc9-b89a-43f8-b7b3-00117ad33e7a" name="Default" comment="" />
+    <list default="true" id="d889afc9-b89a-43f8-b7b3-00117ad33e7a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Fahrenheit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,10 +276,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerticalSeekBar.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="VerticalSeekBar.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fahrenheit/src/main/java/com/kribel/fahrenheit/VerticalSeekBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="14" selection-start="496" selection-end="496" vertical-scroll-proportion="0.93453723" vertical-offset="0" max-vertical-offset="1472">
+            <state line="22" column="14" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1472">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="7" selection-start="70" selection-end="70" vertical-scroll-proportion="0.1557562" vertical-offset="0" max-vertical-offset="443">
               <folding />
             </state>
           </provider>
@@ -287,6 +300,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -668,6 +689,7 @@
         <option value="$PROJECT_DIR$/Fahrenheit/src/main/java/com/kribel/fahrenheit/VerticalSeekBar.java" />
         <option value="$PROJECT_DIR$/Fahrenheit/src/main/java/com/kribel/fahrenheit/MainActivity.java" />
         <option value="$PROJECT_DIR$/Fahrenheit/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -705,14 +727,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -814,7 +836,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.SHOW" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RGB2HEXScrollBarProject" />
@@ -985,14 +1007,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23803364" sideWeight="0.81830984" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957748" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32957748" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17396908" sideWeight="0.64305556" order="2" side_tool="true" content_ui="tabs" />
@@ -1022,21 +1044,12 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fahrenheit/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fahrenheit/src/main/java/com/kribel/fahrenheit/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="39" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
@@ -1158,7 +1171,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fahrenheit/src/main/java/com/kribel/fahrenheit/VerticalSeekBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="496" selection-end="496" vertical-scroll-proportion="0.93453723" vertical-offset="0" max-vertical-offset="1472">
+        <state line="22" column="14" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1472">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="70" selection-end="70" vertical-scroll-proportion="0.1557562" vertical-offset="0" max-vertical-offset="443">
           <folding />
         </state>
       </provider>
